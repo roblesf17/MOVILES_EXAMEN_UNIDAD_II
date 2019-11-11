@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833377502823",
+    "firebase_url": "https://examenunidadi.firebaseio.com",
+    "project_id": "examenunidadi",
+    "storage_bucket": "examenunidadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833377502823:android:a8a04fa1cb398188ebb6c2",
+        "android_client_info": {
+          "package_name": "Examen.App.Robles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833377502823-9ji5aai6mc2b23csnncr9m952u40k2f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Examen.App.Robles",
+            "certificate_hash": "31eb76e522dde004ef9c77ca5a29ad086cb3e097"
+          }
+        },
+        {
+          "client_id": "833377502823-qccs4mgrbs5rtl03g2pfpnmpqprhobbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1N7Nh0JwBTF2a1Jc64aGNHD0mQl7jXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833377502823-qccs4mgrbs5rtl03g2pfpnmpqprhobbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

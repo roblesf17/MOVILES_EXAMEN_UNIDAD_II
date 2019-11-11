@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".caracola_magica"
+
+    android:orientation="vertical"
+
+    android:background="@drawable/fondo_caracola_magica"
+
+    android:paddingTop="70dp"
+    >
+
+    <ImageView
+        android:id="@+id/caracolaimg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:onClick="onclick_preguntame"
+        app:srcCompat="@drawable/caracola"
+        android:layout_centerHorizontal="true"
+        />
+</RelativeLayout>

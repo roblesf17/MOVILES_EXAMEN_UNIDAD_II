@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#FF0000</color>
+
+
+    <color name="color_boton_login">#F44336</color>
+    <color name="fondo_color_principal">#8F0D0D</color>
+    <color name="fondo_color_email_password_login">#DF243B</color>
+
+    <color name="color_principal_amarillo">#FFC107</color>
+
+</resources>
